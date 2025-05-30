@@ -188,9 +188,8 @@ Aplicamos múltiplas camadas de validação para garantir qualidade e consistên
 ## 👥 Contribuições
 
 **Desenvolvido por:** Wesley Rodrigo dos Santos  
-**RA:** 10433408  
 **Disciplina:** Aquisição e Preparação de Dados  
-**Curso:** Ciência de Dados
+**Curso:** - Universidade Presbiteriana Mackenzie - Curso de Ciência de Dados
 
 ## 🔗 Links e Recursos
 
@@ -204,7 +203,7 @@ Aplicamos múltiplas camadas de validação para garantir qualidade e consistên
 - Kaggle - NASA Meteorite Landings Dataset
 - Python Software Foundation - Pandas, NumPy, Matplotlib
 - Ajay Thampi - reverse-geocoder library
-- Universidade Presbiteriana Mackenzie - Curso de Ciência de Dados
+
 
 ## 📄 Licença
 
